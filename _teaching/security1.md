@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: http://www.cs.columbia.edu/~suman/security_1.html
 venue: "Columbia University, Computer Science, Suman Jana"
-date: Fall 2018
+date: 2018-09-01
 location: "New York City, USA"
 ---
 

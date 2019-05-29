@@ -3,7 +3,7 @@ title: "Privacy Preserving Technologies - COMS W6998"
 collection: teaching
 type: "Graduate course"
 venue: "Columbia University, Computer Science, Jeannette Wing"
-date: Spring 2019
+date: 2019-02-01
 location: "New York City, USA"
 ---
 
