@@ -13,8 +13,8 @@ Presentation of my summer research project - a securtiy testing framework for em
 {% include base_path %}
 
 <!-- <object data="http://localhost:4000/files/gabriel_ryan_cv.pdf" type="application/pdf" width="700px" height="700px"> -->
-<object data="{{ base_path }}/files/gabriel_ryan_cv.pdf" type="application/pdf"  width="600px" height="800px">
-    <embed src="{{ base_path }}/images/dolangavitt.png">
+<object data="{{ base_path }}/images/eh.png" type="image"  width="600px" height="800px">
+    <embed src="{{ base_path }}/images/eh.png">
     </embed>
 </object>
 
