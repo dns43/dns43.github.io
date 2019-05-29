@@ -1,5 +1,5 @@
 ---
-title: "Security 1"
+title: "Security 1 - COMS W4181"
 collection: teaching
 type: "Undergraduate course"
 permalink: http://www.cs.columbia.edu/~suman/security_1.html
