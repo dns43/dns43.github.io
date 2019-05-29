@@ -12,7 +12,7 @@ Presentation of my summer research project - a securtiy testing framework for em
 
 {% include base_path %}
 
-<object data="{{ base_path }}/images/eh.png" type="image"  width="600px" height="800px">
+<object data="{{ base_path }}/images/eh.png" type="image"  width="631px" height="624px">
     <embed src="{{ base_path }}/images/eh.png">
     </embed>
 </object>
