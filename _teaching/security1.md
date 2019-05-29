@@ -1,0 +1,20 @@
+---
+title: "Security 1"
+collection: teaching
+type: "Undergraduate course"
+permalink: http://www.cs.columbia.edu/~suman/security_1.html
+venue: "Columbia University, Computer Science, Suman Jana"
+date: Fall 2018
+location: "New York City, USA"
+---
+
+As Head TA, I helped creating homework assignments and exams - as well as office hours and grading. 
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======

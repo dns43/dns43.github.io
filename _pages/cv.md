@@ -7,8 +7,18 @@ redirect_from:
   - /resume
 ---
 
+
 {% include base_path %}
 
+
+<!-- <object data="http://localhost:4000/files/gabriel_ryan_cv.pdf" type="application/pdf" width="700px" height="700px"> -->
+<object data="{{ base_path }}/files/resume_dennis.pdf" type="application/pdf"  width="600px" height="800px">
+    <embed src="{{ base_path }}/files/resume_dennis.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="{{ base_path }}/files/resume_dennis.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+<!--
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -57,3 +67,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
